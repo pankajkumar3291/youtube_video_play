@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Performencia</string>
+
+    <string name="verify_visa_code">VERIFY VISA CODE</string>
+    <string name="goal_land_introduction">GOAL LAND \n INTRODUCTION</string>
+    <string name="enter">ENTER</string>
+</resources>
